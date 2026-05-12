@@ -10,7 +10,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 ADB_HOST = "127.0.0.1"
 ADB_PORT = 5555
 EMULATOR_DEVICE_ID = "127.0.0.1:5555"
-ADB_PATH = "C:/platform-tools/adb.exe"
+ADB_PATH = "C:/LDPlayer/LDPlayer9/adb.exe"
 
 # --- Screen capture ---
 SCREENSHOT_PATH = "temp/screenshot.png"
