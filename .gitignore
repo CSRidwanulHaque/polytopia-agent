@@ -6,3 +6,5 @@ __pycache__/
 *.pyc
 .vscode/
 personal_notes.txt
+tribes/*
+!tribes/src/core/game/Game.java
