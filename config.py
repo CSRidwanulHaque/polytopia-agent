@@ -16,7 +16,7 @@ ADB_PATH = "C:/LDPlayer/LDPlayer9/adb.exe"
 SCREENSHOT_PATH = "temp/screenshot.png"
 
 # --- Gemini Settings ---
-LIMB_MODEL = "gemini-1.5-flash"  # the eye - reads screenshots
+LIMB_MODEL = "gemini-2.5-flash"  # the eye - reads screenshots
 MAX_RETRIES = 3
 
 # --- Logging ---
