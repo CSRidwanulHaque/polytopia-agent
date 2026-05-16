@@ -1,0 +1,22 @@
+{
+  "Run Mode" : "PlayFile",
+  "Progressive Bias" : true,
+  "Pruning" : true,
+  "K init mult": 0.5,
+  "T mult": 2.0,
+  "A mult": 1.5,
+  "B": 1.3,
+  "Game Mode" : "Capitals",
+  "Rollouts" : false,
+  "Search Depth" : 20,
+  "Force End" : false,
+  "Population Size" : 1,
+  "Players" : ["pMCTS", "OEP"],
+  "Tribes" : ["Imperius", "Xin Xi"],
+  "Verbose" : true,
+  "Replay File Name" : "save/1590072023986/0_0/game.json",
+  "Level File" : "levels/MinimalLevel2.csv",
+  "Game Seed" : "42",
+  "Agents Seed" : "42",
+  "Level Seed" : "42"
+}
